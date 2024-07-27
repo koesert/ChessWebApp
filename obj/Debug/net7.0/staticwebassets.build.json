@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tOCrmrpLQrQVPJHXYkL3ZrAnOQl32r2n4JjhzgbS0N4=",
+  "Source": "ChessWebApp",
+  "BasePath": "_content/ChessWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
